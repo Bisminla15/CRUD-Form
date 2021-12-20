@@ -137,55 +137,47 @@
                                 <li data-target="#demo" data-slide-to="2"></li>
                                 <li data-target="#demo" data-slide-to="3"></li>
                                 <li data-target="#demo" data-slide-to="4"></li>
-                                <li data-target="#demo" data-slide-to="5"></li>
+                                
                             </ul>
         
                             <div class="carousel-inner" style="border-radius: 1px">
                                 <div class="carousel-item active">
-                                    <img src=""
+                                    <img src="https://my.kapook.com/rq/580/435/50/imagescontent/mobile_web/868/m_184316_9909.jpg"
                                         alt="" width="500" height="300" style="filter: brightness(50%);">
                                     <div class="carousel-caption" style=" color: white; ">
-                                        <h3></h3>
+                                        <h3>น้ำแตงโม</h3>
                                     </div>
                                 </div>
         
                                 <div class="carousel-item">
-                                    <img src=""
+                                    <img src="https://s359.kapook.com/pagebuilder/8b209698-7dbc-4309-a856-48eaf00ca2df.jpg"
                                         alt="" width="500" height="300" style="filter: brightness(50%);">
                                     <div class="carousel-caption" style=" color: white; ">
-                                        <h3></h3>
+                                        <h3>น้ำชาเขียวมะนาว</h3>
                                     </div>
                                 </div>
         
                                 <div class="carousel-item">
-                                    <img src=""
+                                    <img src="https://s359.kapook.com/pagebuilder/4568bd6f-3682-4368-a9ef-c8d659fa0214.jpg"
                                         alt="" width="500" height="300" style="filter: brightness(50%);">
                                     <div class="carousel-caption" style=" color: white; ">
-                                        <h3></h3>
+                                        <h3>น้ำชาดำเย็น</h3>
                                     </div>
                                 </div>
         
                                 <div class="carousel-item">
-                                    <img src=""
+                                    <img src="https://s359.kapook.com/pagebuilder/bce57a05-911d-479d-834c-c76191c8d441.jpg"
                                         alt="" width="500" height="300" style="filter: brightness(50%);">
                                     <div class="carousel-caption" style=" color: white; ">
-                                        <h3></h3>
+                                        <h3>น้ำโกโก้เย็น</h3>
                                     </div>
                                 </div>
                                 
                                 <div class="carousel-item">
-                                    <img src=""
+                                    <img src="https://s359.kapook.com/pagebuilder/be5a8eec-4aeb-4db6-a1da-fb528e54ae74.jpg"
                                         alt="" width="500" height="300" style="filter: brightness(50%);">
                                     <div class="carousel-caption" style=" color: white; ">
-                                        <h3></h3>
-                                    </div>
-                                </div>
-        
-                                <div class="carousel-item">
-                                    <img src=""
-                                        alt="" width="500" height="300" style="filter: brightness(50%);">
-                                    <div class="carousel-caption" style=" color: white; ">
-                                        <h3></h3>
+                                        <h3>น้ำชาเขียวนมสดเย็น</h3>
                                     </div>
                                 </div>
         

@@ -130,8 +130,7 @@
         <div
             style="margin-top: -310px; margin-left: 600px; margin-left: 600px; width: 500px; height: 250px ; background-color: #f0fff9; border-radius: 5px ">
             <h4 style="text-align: center;">ร้าน Minii Bis Hours</h4>
-            <p style="font-size: large; text-align: start;">ร้าน Minii Bis Hours
-                เป็นร้านอาหารที่นำเสนอเมนูอาหารใต้ที่หลากหลาย</p>
+            <p style="font-size: large; text-align: start;">ร้าน Minii Bis Hours เป็นร้านอาหารที่นำเสนอเมนูอาหารใต้ที่หลากหลาย</p>
         </div>
 
         <!--2-->
@@ -206,9 +205,8 @@
             <thead>
                 <tr>
                     <th>Id</th>
-                    <th>ShopName</th>
-                    <th>FootName</th>
-                    <th>price</th>
+                    <th>Food Name</th>
+                    <th>Food Price</th>
                     <th>Edit</th>
                     <th>Delete</th>
                 </tr>
@@ -218,32 +216,37 @@
         </table>
 
         <h4>แก้ไขข้อมูลเมนูอาหาร</h4>
-        <form action="row">
-            <div class="col-md-8">
-                <label for="id" class="form-label">ID</label>
-                <input type="text" id="ID" placeholder="">
-            </div>
-            <div class="col-md-8">
-                <label for="name" class="form-label">Food Name</label>
-                <input type="text" id="name" placeholder="ชื่ออาหาร">
-            </div>
-            <div class="col-md-6">
-                <label for="price" class="form-label">Food Price</label>
-                <input type="number" id="number" placeholder="ราคาอาหาร">
-            </div>
-            <div>
-                <button type="button" class="btr btr-primary" id="btnInsert" value="แทรก">Insert</button>
-            </div>
-            <div>
-                <button type="button" class="btr btr-primary" id="btnUpdate" value="อัปเดต">Update</button>
-            </div>
-            <div>
-                <button type="button" class="btr btr-danger" id="btnDelete" value="แก้ไข">Delete</button>
-            </div>
-            <div>
-                <button type="button" class="btr btr-success" id="btnSend" value="ตกลง">Send</button>
-            </div>
-        </form>
+        <div class="container">
+            <form action="">
+                <div class="form row">
+                    <div class="col-md-8">
+                        <label for="id" class="form-label">ID</label>
+                        <input type="text" class="form-control" id="ID" placeholder="" required>
+                    </div>
+                    <div class="col-md-8">
+                        <label for="name" class="form-label">Food Name</label>
+                        <input type="text" class="form-control" id="name" placeholder="ชื่ออาหาร" required>
+                    </div>
+                    <div class="col-md-6">
+                        <label for="price" class="form-label">Food Price</label>
+                        <input type="number" class="form-control" id="number" placeholder="ราคาอาหาร" required>
+                        </br>
+                    </div>
+                </div>
+                    <div>
+                        <button type="button" class="btr btr-primary" id="btnInsert" value="แทรก">Insert</button> 
+                    </div><br>
+                    <div>
+                        <button type="button" class="btr btr-primary" id="btnUpdate" value="อัปเดต">Update</button> 
+                    </div><br>
+                    <div>
+                        <button type="button" class="btr btr-danger" id="btnDelete" value="แก้ไข">Delete</button> 
+                    </div><br>
+                    <div>
+                        <button type="button" class="btr btr-success" id="btnSend" value="ตกลง">Send</button> 
+                    </div><br>
+            </form>
+        </div>
     </div>
 </body>
 <script>

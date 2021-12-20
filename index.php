@@ -48,289 +48,257 @@
                 </div>
             </div>
         </div>
-    </div>
-    <!--1-->
-    <h2 style="margin-left: 10%; margin-top: 10px; font-size: 25px;">เมนูแนะนำ</h2>
-    <div class="container-fluid">
-        <div class="row" style=" margin-right: 10px; margin-right: 10px; margin-top: 5px; ">
-            <div class="col-4 " style="margin-top: 15px; ">
-                <div id="demo" class="carousel slide" data-ride="carousel">
-                    <ul class="carousel-indicators">
-                        <li data-target="#demo" data-slide-to="0" class="active"></li>
-                        <li data-target="#demo" data-slide-to="1"></li>
-                        <li data-target="#demo" data-slide-to="2"></li>
-                        <li data-target="#demo" data-slide-to="3"></li>
-                        <li data-target="#demo" data-slide-to="4"></li>
-                        <li data-target="#demo" data-slide-to="5"></li>
-                    </ul>
 
-                    <div class="carousel-inner" style="border-radius: 1px">
-                        <div class="carousel-item active">
-                            <img src="http://1.bp.blogspot.com/-dwe8L71aWkU/VF01MmD9eQI/AAAAAAAAGJk/w0U8dtAqCR8/s1600/kaeng_lueng.jpg"
-                                alt="" width="500" height="300" style="filter: brightness(50%);">
-                            <div class="carousel-caption" style=" color: white; ">
-                                <h3>แกงเหลือง</h3>
+        <!--1-->
+        <h2 style="margin-left: 17%; margin-top: 10px; font-size: 25px;">เมนูแนะนำ</h2>
+        <div class="container-fluid">
+            <div class="row" style=" margin-right: -350px; margin-right: -350px; margin-top: 5px; ">
+                <div class="col-4 " style="margin-top: 15px; ">
+                    <div id="demo" class="carousel slide" data-ride="carousel">
+                        <ul class="carousel-indicators">
+                            <li data-target="#demo" data-slide-to="0" class="active"></li>
+                            <li data-target="#demo" data-slide-to="1"></li>
+                            <li data-target="#demo" data-slide-to="2"></li>
+                            <li data-target="#demo" data-slide-to="3"></li>
+                            <li data-target="#demo" data-slide-to="4"></li>
+                            <li data-target="#demo" data-slide-to="5"></li>
+                        </ul>
 
+                        <div class="carousel-inner" style="border-radius: 1px">
+                            <div class="carousel-item active">
+                                <img src="http://1.bp.blogspot.com/-dwe8L71aWkU/VF01MmD9eQI/AAAAAAAAGJk/w0U8dtAqCR8/s1600/kaeng_lueng.jpg"
+                                    alt="" width="500" height="300" style="filter: brightness(85%);">
+                                <div class="carousel-caption" style=" color: white; ">
+                                    <h3>แกงเหลือง</h3>
+
+                                </div>
                             </div>
-                        </div>
 
-                        <div class="carousel-item">
-                            <img src="https://sites.google.com/a/web1.dara.ac.th/foodthai/_/rsrc/1431499925205/home/kaeng-tipla/%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B9%8C%E0%B9%82%E0%B8%AB%E0%B8%A5%E0%B8%94.jpg?height=239&width=320"
-                                alt="" width="500" height="300" style="filter: brightness(50%);">
-                            <div class="carousel-caption" style=" color: white; ">
-                                <h3>แกงไตปลา</h3>
+                            <div class="carousel-item">
+                                <img src="https://sites.google.com/a/web1.dara.ac.th/foodthai/_/rsrc/1431499925205/home/kaeng-tipla/%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B9%8C%E0%B9%82%E0%B8%AB%E0%B8%A5%E0%B8%94.jpg?height=239&width=320"
+                                    alt="" width="500" height="300" style="filter: brightness(85%);">
+                                <div class="carousel-caption" style=" color: white; ">
+                                    <h3>แกงไตปลา</h3>
 
+                                </div>
                             </div>
-                        </div>
 
-                        <div class="carousel-item">
-                            <img src="https://clib.psu.ac.th/southerninfo/storages/pictures/Food/%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%A2%E0%B8%B316.jpg"
-                                alt="" width="500" height="300" style="filter: brightness(50%);">
-                            <div class="carousel-caption" style=" color: white; ">
-                                <h3>ข้าวยำ</h3>
+                            <div class="carousel-item">
+                                <img src="https://clib.psu.ac.th/southerninfo/storages/pictures/Food/%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%A2%E0%B8%B316.jpg"
+                                    alt="" width="500" height="300" style="filter: brightness(85%);">
+                                <div class="carousel-caption" style=" color: white; ">
+                                    <h3>ข้าวยำ</h3>
 
+                                </div>
                             </div>
-                        </div>
 
-                        <div class="carousel-item">
-                            <img src="https://www.tvpoolonline.com/wp-content/uploads/2018/05/68563853-1024x683.jpg"
-                                alt="" width="500" height="300" style="filter: brightness(50%);">
-                            <div class="carousel-caption" style=" color: white; ">
-                                <h3>คั่วกลิ้ง</h3>
+                            <div class="carousel-item">
+                                <img src="https://www.tvpoolonline.com/wp-content/uploads/2018/05/68563853-1024x683.jpg"
+                                    alt="" width="500" height="300" style="filter: brightness(85%);">
+                                <div class="carousel-caption" style=" color: white; ">
+                                    <h3>คั่วกลิ้ง</h3>
+                                </div>
                             </div>
-                        </div>
 
-                        <div class="carousel-item">
-                            <img src="https://sou-dai.com/wp-content/uploads/2021/10/pjux90aolw7cjoW8Exs-o.jpg" alt=""
-                                width="500" height="300" style="filter: brightness(50%);">
-                            <div class="carousel-caption" style=" color: white; ">
-                                <h3>ขนมจีนน้ำยาใต้</h3>
+                            <div class="carousel-item">
+                                <img src="https://sou-dai.com/wp-content/uploads/2021/10/pjux90aolw7cjoW8Exs-o.jpg"
+                                    alt="" width="500" height="300" style="filter: brightness(85%);">
+                                <div class="carousel-caption" style=" color: white; ">
+                                    <h3>ขนมจีนน้ำยาใต้</h3>
+                                </div>
                             </div>
-                        </div>
 
-                        <div class="carousel-item">
-                            <img src="https://lisergia.org/wp-content/uploads/2020/07/%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B8%97%E0%B8%B5%E0%B9%88-3-10.jpg"
-                                alt="" width="500" height="300" style="filter: brightness(50%);">
-                            <div class="carousel-caption" style=" color: white; ">
-                                <h3>ผักเหลียงผัดไข่</h3>
+                            <div class="carousel-item">
+                                <img src="https://lisergia.org/wp-content/uploads/2020/07/%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B8%97%E0%B8%B5%E0%B9%88-3-10.jpg"
+                                    alt="" width="500" height="300" style="filter: brightness(85%);">
+                                <div class="carousel-caption" style=" color: white; ">
+                                    <h3>ผักเหลียงผัดไข่</h3>
+                                </div>
                             </div>
-                        </div>
 
-                        <a class="carousel-control-prev " href="#demo" data-slide="prev">
-                            <span class="carousel-control-prev-icon"></span>
-                        </a>
-                        <a class="carousel-control-next" href="#demo" data-slide="next">
-                            <span class="carousel-control-next-icon"></span>
-                        </a>
+                            <a class="carousel-control-prev " href="#demo" data-slide="prev">
+                                <span class="carousel-control-prev-icon"></span>
+                            </a>
+                            <a class="carousel-control-next" href="#demo" data-slide="next">
+                                <span class="carousel-control-next-icon"></span>
+                            </a>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-    <div
-        style="margin-top: -310px; margin-left: 850px; margin-left: 850px; width: 500px; height: 250px ; background-color: #f0fff9; border-radius: 5px ">
-        <h4 style="text-align: center;">ร้าน Minii Bis Hours</h4>
-        <p style="font-size: large; text-align: start;">ร้าน Minii Bis Hours เป็นร้านอาหารที่นำเสนอเมนูอาหารใต้ที่หลากหลาย</p>
-    </div>
+        <div
+            style="margin-top: -310px; margin-left: 600px; margin-left: 600px; width: 500px; height: 250px ; background-color: #f0fff9; border-radius: 5px ">
+            <h4 style="text-align: center;">ร้าน Minii Bis Hours</h4>
+            <p style="font-size: large; text-align: start;">ร้าน Minii Bis Hours
+                เป็นร้านอาหารที่นำเสนอเมนูอาหารใต้ที่หลากหลาย</p>
+        </div>
 
-    <!--2-->
-    <div class="container-fluid">
-        <div class="row" style="margin-right: 10px; margin-right: 10px; margin-top: 85px; ">
-            <div class="col-4 " style="margin-top: 15px; ">
-                <div id="demo" class="carousel slide" data-ride="carousel">
-                    <ul class="carousel-indicators">
-                        <li data-target="#demo" data-slide-to="0" class="active"></li>
-                        <li data-target="#demo" data-slide-to="1"></li>
-                        <li data-target="#demo" data-slide-to="2"></li>
-                        <li data-target="#demo" data-slide-to="3"></li>
-                        <li data-target="#demo" data-slide-to="4"></li>
+        <!--2-->
+        <div class="container-fluid">
+            <div class="row" style="margin-right: -350px; margin-right: -350px; margin-top: 85px; ">
+                <div class="col-4 " style="margin-top: 15px; ">
+                    <div id="demo" class="carousel slide" data-ride="carousel">
+                        <ul class="carousel-indicators">
+                            <li data-target="#demo" data-slide-to="0" class="active"></li>
+                            <li data-target="#demo" data-slide-to="1"></li>
+                            <li data-target="#demo" data-slide-to="2"></li>
+                            <li data-target="#demo" data-slide-to="3"></li>
+                            <li data-target="#demo" data-slide-to="4"></li>
 
-                    </ul>
+                        </ul>
 
-                    <div class="carousel-inner" style="border-radius: 1px">
-                        <div class="carousel-item active">
-                            <img src="https://my.kapook.com/rq/580/435/50/imagescontent/mobile_web/868/m_184316_9909.jpg"
-                                alt="" width="500" height="300" style="filter: brightness(50%);">
-                            <div class="carousel-caption" style=" color: white; ">
-                                <h3>น้ำแตงโม</h3>
+                        <div class="carousel-inner" style="border-radius: 1px">
+                            <div class="carousel-item active">
+                                <img src="https://my.kapook.com/rq/580/435/50/imagescontent/mobile_web/868/m_184316_9909.jpg"
+                                    alt="" width="600" height="300" style="filter: brightness(85%);">
+                                <div class="carousel-caption" style=" color: white; ">
+                                    <h3>น้ำแตงโม</h3>
+                                </div>
                             </div>
-                        </div>
 
-                        <div class="carousel-item">
-                            <img src="https://s359.kapook.com/pagebuilder/8b209698-7dbc-4309-a856-48eaf00ca2df.jpg"
-                                alt="" width="500" height="300" style="filter: brightness(50%);">
-                            <div class="carousel-caption" style=" color: white; ">
-                                <h3>น้ำชาเขียวมะนาว</h3>
+                            <div class="carousel-item">
+                                <img src="https://s359.kapook.com/pagebuilder/8b209698-7dbc-4309-a856-48eaf00ca2df.jpg"
+                                    alt="" width="500" height="300" style="filter: brightness(85%);">
+                                <div class="carousel-caption" style=" color: white; ">
+                                    <h3>น้ำชาเขียวมะนาว</h3>
+                                </div>
                             </div>
-                        </div>
 
-                        <div class="carousel-item">
-                            <img src="https://s359.kapook.com/pagebuilder/4568bd6f-3682-4368-a9ef-c8d659fa0214.jpg"
-                                alt="" width="500" height="300" style="filter: brightness(50%);">
-                            <div class="carousel-caption" style=" color: white; ">
-                                <h3>น้ำชาดำเย็น</h3>
+                            <div class="carousel-item">
+                                <img src="https://s359.kapook.com/pagebuilder/4568bd6f-3682-4368-a9ef-c8d659fa0214.jpg"
+                                    alt="" width="500" height="300" style="filter: brightness(85%);">
+                                <div class="carousel-caption" style=" color: white; ">
+                                    <h3>น้ำชาดำเย็น</h3>
+                                </div>
                             </div>
-                        </div>
 
-                        <div class="carousel-item">
-                            <img src="https://s359.kapook.com/pagebuilder/bce57a05-911d-479d-834c-c76191c8d441.jpg"
-                                alt="" width="500" height="300" style="filter: brightness(50%);">
-                            <div class="carousel-caption" style=" color: white; ">
-                                <h3>น้ำโกโก้เย็น</h3>
+                            <div class="carousel-item">
+                                <img src="https://s359.kapook.com/pagebuilder/bce57a05-911d-479d-834c-c76191c8d441.jpg"
+                                    alt="" width="500" height="300" style="filter: brightness(85%);">
+                                <div class="carousel-caption" style=" color: white; ">
+                                    <h3>น้ำโกโก้เย็น</h3>
+                                </div>
                             </div>
-                        </div>
 
-                        <div class="carousel-item">
-                            <img src="https://s359.kapook.com/pagebuilder/be5a8eec-4aeb-4db6-a1da-fb528e54ae74.jpg"
-                                alt="" width="500" height="300" style="filter: brightness(50%);">
-                            <div class="carousel-caption" style=" color: white; ">
-                                <h3>น้ำชาเขียวนมสดเย็น</h3>
+                            <div class="carousel-item">
+                                <img src="https://s359.kapook.com/pagebuilder/be5a8eec-4aeb-4db6-a1da-fb528e54ae74.jpg"
+                                    alt="" width="500" height="300" style="filter: brightness(85%);">
+                                <div class="carousel-caption" style=" color: white; ">
+                                    <h3>น้ำชาเขียวนมสดเย็น</h3>
+                                </div>
                             </div>
-                        </div>
 
-                        <a class="carousel-control-prev " href="#demo" data-slide="prev">
-                            <span class="carousel-control-prev-icon"></span>
-                        </a>
-                        <a class="carousel-control-next" href="#demo" data-slide="next">
-                            <span class="carousel-control-next-icon"></span>
-                        </a>
+                            <a class="carousel-control-prev " href="#demo" data-slide="prev">
+                                <span class="carousel-control-prev-icon"></span>
+                            </a>
+                            <a class="carousel-control-next" href="#demo" data-slide="next">
+                                <span class="carousel-control-next-icon"></span>
+                            </a>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-    <div style="text-align: right; margin-top: 15px;">
-        <input type="submit" id="btnInsert" value="แทรก" class="btn btn-success" />
-        <input type="submit" id="btnDelete" value="แก้ไข" class="btn btn-success" />
-        <input type="submit" id="btnUpdate" value="อัปเดต" class="btn btn-success" />
-        <input type="submit" id="btnRetrieve" value="ดึงข้อมูล" class="btn btn-success" />
-        <input type="submit" id="btnSend" value="ตกลง" class="btn btn-success" />
-    </div> 
 
+        <!--ฟอร์ม-->
+        <table id="tblAll" class="table table-striped" style="margin-top:23px">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>ShopName</th>
+                    <th>FootName</th>
+                    <th>price</th>
+                    <th>Edit</th>
+                    <th>Delete</th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+
+        <h4>แก้ไขข้อมูลเมนูอาหาร</h4>
+        <form action="row">
+            <div class="col-md-8">
+                <label for="id" class="form-label">ID</label>
+                <input type="text" id="ID" placeholder="">
+            </div>
+            <div class="col-md-8">
+                <label for="name" class="form-label">Food Name</label>
+                <input type="text" id="name" placeholder="ชื่ออาหาร">
+            </div>
+            <div class="col-md-6">
+                <label for="price" class="form-label">Food Price</label>
+                <input type="number" id="number" placeholder="ราคาอาหาร">
+            </div>
+            <div>
+                <button type="button" class="btr btr-primary" id="btnInsert" value="แทรก">Insert</button>
+            </div>
+            <div>
+                <button type="button" class="btr btr-primary" id="btnUpdate" value="อัปเดต">Update</button>
+            </div>
+            <div>
+                <button type="button" class="btr btr-danger" id="btnDelete" value="แก้ไข">Delete</button>
+            </div>
+            <div>
+                <button type="button" class="btr btr-success" id="btnSend" value="ตกลง">Send</button>
+            </div>
+        </form>
+    </div>
 </body>
 <script>
-    function loadCate() {
-        var url = "https://cjundang.me/api/category/gets";
-        $.getJSON(url)
-            .done((data) => {
-                var line = "";
-                $.each(data, (k, v) => {
-                    line += "<option value='" + v.cid + "'> " + v.categories + "</option>";
-                });
-                $("#optCate").empty();
-                $("#optCate").append(line);
-
-            })
-
-    }
-    function loadRestaurants() {
-        var url = "https://cjundang.me/api/restaurants/gets";
-        $.getJSON(url).done((data) => {
-            var line = "";
-            console.log(data);
-            $.each(data, (key, item) => {
-                line += "<tr>";
-                line += "<td> <a class='btn btn-danger btn-sm' href='#' onClick='deleRestaurant(" + item.rid + ")'><i class='fa fa-trash' aria-hidden='true'></i> dele </a> ";
-                line += "<a class='btn btn-primary  btn-sm' href='#' onClick='loadARestaurant(" + item.rid + ")' > <i class='fa fa-pencil-square-o' aria-hidden='true'></i> edit </a></td>";
-                line += "<td>" + item.rid + "</td>";
-                line += "<td>" + item.name + "</td>";
-                line += "<td>" + item.owner_name + "</td>";
-                line += "<td>  <a href='" + item.website + "'> Link </a></td>";
-                line += "<td>";
-                line += "Opened </td>";
-                line += "</tr>";
-                console.log(line);
-
-
-            });
-            $("#tblRestaurants").empty();
-            $("#tblRestaurants").append(line);
-
-        })
-            .fail((xhr, status, error) => {
-
-            });
-    }
-
-    function loadARestaurant(id) {
-        var url = "https://cjundang.me/api/restaurants/get/" + id;
-        $.getJSON(url).done((data) => {
-            console.log(data);
-            var item = data[0];
-            $("#txtRID").val(item.rid);
-            $("#txtName").val(item.name);
-            $("#txtOwner").val(item.owner_name);
-            $("#txtWebSite").val(item.website);
-
-
-        })
-            .fail((xhr, status, error) => {
-
-            });
-    }
-
-    function deleRestaurant(id) {
-
-        var unique_name = prompt("confirm to delete with Uniqe Name");
-        if (unique_name != null) {
-            var data = new Object();
-            data.unique_name = unique_name;
-            data.rstatus = 1;
-            var url = "https://cjundang.me/api/restaurants/status";
-            $.post(
-                url,
-                { "data": JSON.stringify(data) },
-                (data, status) => {
-                    console.log(data + " " + status);
-                    loadRestaurants();
-                }
-            )
+    function btnInsert_click() {
+        $("#btnInsert").Click();
+        var id = $("#ID").val();
+        var name = $("#Name").val();
+        var price = $("#Price").val();
+        var edit = "<a class='edit' href='JavaScript:void(0);'>Edit</a>";
+        var del = "<a class='delete' href='JavaScript:void(0);'>Delete</a>";
+        if (id == "" || name == "" || price == "") {
+            alert("กรุณากรอกข้อมูล");
         }
-
-
-    }
-
-    function addRestaurant() {
-        var data = new Object();
-        data.unique_name = $("#txtUnique").val();
-        data.name = $("#txtName").val();
-        data.owner_name = $("#txtOwner").val();
-        data.website = $("#txtWebSite").val();
-        console.log(JSON.stringify(data));
-        var rid = parseInt($("#txtRID").val());
-
-        if (rid == 0) {  // add
-            var url = "https://cjundang.me/api/restaurants/add";
-            $.post(
-                url,
-                {
-                    "data": JSON.stringify(data)
-                },
-                (data, status) => {
-                    console.log(data + " " + status);
-                    loadRestaurants();
-                }
-            );
-        } else {
-            var url = "https://cjundang.me/api/restaurants/update";
-            $.post(
-                url,
-                {
-                    "data": JSON.stringify(data)
-                },
-                (data, status) => {
-                    console.log(data + " " + status);
-                    loadRestaurants();
-                }
-            );
+        else {
+            var table = "<tr><td>" + id + "</td><td>" + name + "</td><td>" + price + "</td><td>" + edit + "</td><td>" + del + "</td></tr>";
+            $("#tblAll").append(table);
         }
+        id = $("#ID").val();
+        name = $("#Name").val();
+        price = $("#Price").val();
+        Clear();
     }
 
-    $(() => {
-        loadRestaurants();
-        loadCate();
-        $("#btnAdd").click(addRestaurant);
-    })
+    function btnUpdate_Click() {
+        $("#btnUpdate").Click();
+        var id = $("#ID").val();
+        var name = $("#Name").val();
+        var price = $("#Price").val();
+        $('#tblAll tbody tr').find('td').eq(0).html(id);
+        $('#tblAll tbody tr').find('td').eq(1).html(name);
+        $('#tblAll tbody tr').find('td').eq(2).html(price);
+        $('#btnAdd').show();
+        $('#btnUpdate').hide();
+        Clear();
+    }
+
+    function btnDelete_Click() {
+        $("#btnDelete").Click();
+    }
+    function All() {
+        $("#tblAll").Click();
+        var row = $(this).closest('tr');
+        var td = $(row).find("td");
+        $('#id').val($(td).eq(0).html());
+        $('#name').val($(td).eq(2).html());
+        $('#price').val($(td).eq(3).html());
+        $('#btnAdd').hide();
+        $('#btnUpdate').show();
+    }
+
+    function Clear() {
+        $("#id").val("");
+        $("#name").val("");
+        $("#price").val("");
+    }
+
 </script>
-
 </html>
